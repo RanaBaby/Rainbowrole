@@ -1,0 +1,12 @@
+venv
+__pycache__
+
+*.session
+*.session-journal
+*.DB
+*.DB-journal
+data/
+config.env
+sessions/
+
+stdplugins/tb_button.py
